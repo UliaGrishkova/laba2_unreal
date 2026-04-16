@@ -1,3 +1,5 @@
-2026/04/15-21:26:58.211 4e38 Reusing MANIFEST D:\lab 2\TheHorrorFramework\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/04/15-21:26:58.212 4e38 Recovering log #3
-2026/04/15-21:26:58.212 4e38 Reusing old log D:\lab 2\TheHorrorFramework\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/04/16-04:50:26.361 251c Log #3: 3 ops saved to Table #4 OK
+2026/04/16-04:50:26.366 251c Archiving D:\laba2\laba2_unreal\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/04/16-04:50:26.367 251c Table #4: 3 entries OK
+2026/04/16-04:50:26.370 251c Archiving D:\laba2\laba2_unreal\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/16-04:50:26.380 251c **** Repaired leveldb D:\laba2\laba2_unreal\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
